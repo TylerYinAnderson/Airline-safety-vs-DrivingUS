@@ -1,2 +1,3 @@
 # Airline-safety-vs-DrivingUS
  
+In recent weeks there has been some questions about the safeties of air travel compared to driving. With recent incidents like the downing of Malaysia Airlines Flight 17 in Ukraine on Thursday, following the disappearance of its Flight 370 in March, is the second mysterious incident involving the airline this year. The incidents don’t appear to be related, but that isn’t preventing people from insisting that they’ll never fly Malaysia Airlines again. Some of them will follow through — academic studies have found that high-profile crashes can shift passenger demand away from the airlines involved in the disasters.
